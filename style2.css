@@ -1,0 +1,71 @@
+
+.a {
+    background-color: orange;
+    border-radius: 5px;
+    color: white;
+    padding: 20px 20px;
+    margin: auto;
+    width: 100px;
+    background-image: linear-gradient(to right,rgb(255, 225, 0), rgb(255, 102, 0));
+}
+.a:hover {
+    background-image: linear-gradient(to right, rgb(255, 102, 0),rgb(255, 225, 0));
+}
+.b {
+    position: absolute;
+    background-color: pink;
+    border-radius: 5px;
+    color: white;
+    padding: 20px;
+    margin: auto;
+    width: 100px;
+    left: 165px;
+    background-image: linear-gradient(to right, pink, rgb(136, 0, 255));
+}
+.b:hover {
+    background-image: linear-gradient(to right, rgb(136, 0, 255), pink);  
+}
+.c {
+    position: absolute;
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    padding: 20px;
+    margin: auto;
+    width: 100px;
+    left: 320px;
+    background-image: linear-gradient(to right, rgb(90, 255, 147), rgb(0, 166, 255));
+}
+.c:hover {
+    background-image: linear-gradient(to right, rgb(0, 166, 255), rgb(90, 255, 147));
+}
+.a1 {
+    position: absolute;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    width: 177px;
+    padding: 20px;
+    margin: auto;
+    top: 80px;
+    background-image: linear-gradient(to right, rgb(101, 101, 231), rgb(214, 229, 241));
+}
+.a1:hover {
+    background-image: linear-gradient(to right,  rgb(214, 229, 241), rgb(101, 101, 231));
+}
+.b2 {
+    position: absolute;
+    background-color: yellow;
+    border-radius: 5px;
+    color: white;
+    padding: 20px;
+    margin: auto;
+    width: 177px;
+    left: 240px;
+    top: 80px;
+    background-image: linear-gradient(to right, rgb(236, 236, 162), rgb(250, 118, 171));
+}
+.b2:hover {
+    background-image: linear-gradient(to right,  rgb(250, 118, 171), rgb(236, 236, 162));   
+}
+
